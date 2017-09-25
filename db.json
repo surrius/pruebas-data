@@ -1,3 +1,4 @@
+{
 [
   {
     "cod_aplicaci": "CACB",
@@ -36,3 +37,4 @@
     "des_desjobpl": "GRUPO DE SOPORTE: Imagen Cartera\n\nEste script lanza el binario cacbCrgFicCompD que realiza la carga del fichero de COMPENSACION DE REPRESENTADOS con los datos de los documentos que se han de cruzar. Los datos de este fichero se insertan en la tabla TCACBFIC."
   }
 ]
+}
