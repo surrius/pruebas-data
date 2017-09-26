@@ -1,38 +1,40 @@
-[
-	{
-		"cod_aplicaci": "CACB",
-		"cod_jobpl": 1,
-		"cod_autouni": 2,
-		"des_refdocjb": "CACB9302.html",
-		"des_nombrjob": "CACB9302.sh",
-		"des_gsoporte": "Imagen Cartera",
-		"des_maqori": "apcar001",
-		"des_libreori": "/pr/cacb/batch/es/scrt",
-		"des_estrupl": "CACB",
-		"des_periojob": "Se",
-		"des_maqeje": "apcar001",
-		"xti_critijob": "C",
-		"aud_usuario": "XE29079",
-		"aud_timcrea": "2017-09-22 11:04:37.437",
-		"aud_timmodif": "2017-09-22 11:04:37.437",
-		"des_desjobpl": "GRUPO ..."
-	},
-	{
-		"cod_aplicaci": "CACB",
-		"cod_jobpl": 2,
-		"cod_autouni": 3,
-		"des_refdocjb": "CACB9303.html",
-		"des_nombrjob": "CACB9303.sh",
-		"des_gsoporte": "Imagen Cartera",
-		"des_maqori": "apcar001",
-		"des_libreori": "/pr/cacb/batch/es/scrt",
-		"des_estrupl": "CACB",
-		"des_periojob": "Se...",
-		"des_maqeje": "apcar001",
-		"xti_critijob": "C",
-		"aud_usuario": "XE29079",
-		"aud_timcrea": "2017-09-22 11:04:37.584",
-		"aud_timmodif": "2017-09-22 11:04:37.584",
-		"des_desjobpl": "h"
-	}
-]
+{
+	"jobs": [
+		{
+			"cod_aplicaci": "CACB",
+			"cod_jobpl": 1,
+			"cod_autouni": 2,
+			"des_refdocjb": "CACB9302.html",
+			"des_nombrjob": "CACB9302.sh",
+			"des_gsoporte": "Imagen Cartera",
+			"des_maqori": "apcar001",
+			"des_libreori": "/pr/cacb/batch/es/scrt",
+			"des_estrupl": "CACB",
+			"des_periojob": "Se",
+			"des_maqeje": "apcar001",
+			"xti_critijob": "C",
+			"aud_usuario": "XE29079",
+			"aud_timcrea": "2017-09-22 11:04:37.437",
+			"aud_timmodif": "2017-09-22 11:04:37.437",
+			"des_desjobpl": "GRUPO ..."
+		},
+		{
+			"cod_aplicaci": "CACB",
+			"cod_jobpl": 2,
+			"cod_autouni": 3,
+			"des_refdocjb": "CACB9303.html",
+			"des_nombrjob": "CACB9303.sh",
+			"des_gsoporte": "Imagen Cartera",
+			"des_maqori": "apcar001",
+			"des_libreori": "/pr/cacb/batch/es/scrt",
+			"des_estrupl": "CACB",
+			"des_periojob": "Se...",
+			"des_maqeje": "apcar001",
+			"xti_critijob": "C",
+			"aud_usuario": "XE29079",
+			"aud_timcrea": "2017-09-22 11:04:37.584",
+			"aud_timmodif": "2017-09-22 11:04:37.584",
+			"des_desjobpl": "h"
+		}
+	]
+}
