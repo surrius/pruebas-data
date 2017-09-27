@@ -21,39 +21,6 @@
 		"fec_modifica": null,
 		"xti_critical": "B",
 		"xti_periocdn": "D",
-		"tewokcrds": [
-			{
-				"id": {
-					"cod_aplicaci": "DIME",
-					"cod_cadenapl": 1,
-					"cod_secuuaa": 1
-				},
-				"aud_timcrea": 1506437930427,
-				"aud_timmodif": 1506437930427,
-				"aud_usuario": "XE29079",
-				"cod_autouni": 1,
-				"des_cadenapr": "Cadena Predecesor",
-				"des_cadenasu": "Cadena Sucesor",
-				"des_scriptjb": "Script ejecutado",
-				"des_scriptpr": "Script del predecesor",
-				"des_scriptsu": "Script del sucesor"
-			},
-			{
-				"id": {
-					"cod_aplicaci": "DIME",
-					"cod_cadenapl": 1,
-					"cod_secuuaa": 2
-				},
-				"aud_timcrea": 1506438054226,
-				"aud_timmodif": 1506438054226,
-				"aud_usuario": "XE20856",
-				"cod_autouni": 2,
-				"des_cadenapr": "Nuevo Predecesor",
-				"des_cadenasu": "Nuevo Sucesor",
-				"des_scriptjb": "Datos de ejecutado",
-				"des_scriptpr": "Datos de predecesor",
-				"des_scriptsu": "Datos de sucesor"
-			}
-		]
+		"tewokcrds": []
 	}
 ]
